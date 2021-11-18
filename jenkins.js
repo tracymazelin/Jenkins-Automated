@@ -1,1 +1,0 @@
-alert("Automated Jenkins Trigger");
